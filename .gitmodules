@@ -1,0 +1,3 @@
+[submodule "tj/histo"]
+	path = tj/histo
+	url = https://github.com/tj/histo.git
