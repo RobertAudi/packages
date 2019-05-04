@@ -13,3 +13,6 @@
 [submodule "jwerle/suri"]
 	path = jwerle/suri
 	url = https://github.com/jwerle/suri.git
+[submodule "jb55/mandown"]
+	path = jb55/mandown
+	url = https://github.com/jb55/mandown.git
