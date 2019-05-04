@@ -22,6 +22,17 @@ pidpath
 
 **Repo:** https://github.com/jb55/pidpath
 
+mandown
+-------
+
+> Render anything (supported by pandoc) as a manpage
+
+**Repo:** https://github.com/jb55/mandown
+
+### Dependencies
+
+- [Pandoc](https://pandoc.org/)
+
 OSX CPU Temp
 ------------
 
